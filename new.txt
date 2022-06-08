@@ -1,0 +1,83 @@
+FULL STACK DEVELOPER ->
+
+    a deveoper which have the knowledge of front end to deployment
+
+
+    1) front end -> 
+                i> html
+                ii> css
+                iii> javascript
+                iv> bootstrap
+
+    2) back end -> 
+            i>php
+            ii> python
+            iii>java
+            iv>.net
+
+
+    3) database ->
+        i>mysql
+    4) deployment ->
+        i> aws
+
+
+python ->
+python is high level language 
+
+
+
+
+language->
+    1) low level language ->
+        i>machine level
+        ii> assembly level language ->
+            mov a,b
+    2) high level language ->
+        c,c++,python,java
+
+
+
+Feature of python ->
+    1) simplicity
+    2) open source
+    3) portability
+    4) embeddable and extensible
+    5) interpreted 
+    6) huge libraries
+    7) object orientation (oop)
+
+
+where python is used in industry->
+    google->better search result
+    dropbox -> for joining the server side aur client side  
+    netflix -> for suggestion box
+
+career oportunities ->
+web develpment -> django/flask
+game development -> pygame
+data analysis 
+IOT 
+
+
+
+
+difference between hiigh level and low level language ->
+
+
+            high level                                            low level
+1) it is programmer firendly language                1) it is computer friendly language
+2)easy to understand                                 2) it is tough to understand
+3) simple to modify                                  3) complex to modify
+4)it run on any platform                             4) it depend on machine
+5)compiler ,interpreted                              5) assembler 
+
+
+python -> 00000111100001111000000111
+
+
+
+
+
+
+

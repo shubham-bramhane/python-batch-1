@@ -1,0 +1,37 @@
+tuple -> 
+tuple is a build in datatype 
+
+tuple are used to stored multiple item in variable
+
+
+list []
+
+tuple ()
+
+
+list are written in sqaure bracket []
+
+tuple are written in round bracket ()
+
+
+fruits=['apple']
+
+print(type(fruits))
+
+Fruits=('apple')
+
+print(type(Fruits))
+
+
+tuple are non changeable
+
+
+
+
+
+b=4
+
+a=b
+
+
+a=b.copy()   4
